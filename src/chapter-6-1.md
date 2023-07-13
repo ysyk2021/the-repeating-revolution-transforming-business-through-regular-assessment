@@ -1,4 +1,4 @@
-Chapter 6: Thriving in the Repeating Revolution: Maximizing Long-Term Value Creation Through Assessment
+Maximizing Long-Term Value Creation Through Assessment
 =======================================================================================================
 
 Maximizing long-term value creation through assessment involves focusing on business objectives, using data-driven decision making, embracing innovation, and fostering collaboration. In this chapter, we will explore strategies for maximizing long-term value creation through assessment.

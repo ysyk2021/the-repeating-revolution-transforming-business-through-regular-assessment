@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Understanding the Importance of Regular Assessment in Business](chapter-1-1.md)
   - [The Benefits of Continuous Improvement and Adaptation](chapter-1-2.md)
   - [Purpose and Scope of the Book](chapter-1-3.md)
@@ -29,8 +28,4 @@
   - [Metrics and Key Performance Indicators (KPIs) for the Repeating Revolution](chapter-7-1.md)
   - [Analyzing and Interpreting Data on the Repeating Revolution](chapter-7-2.md)
   - [Continuously Improving the Repeating Revolution Approach](chapter-7-3.md)
-- [Chapter 8: Conclusion](chapter-8.md)
-  - [Recap of Key Points](chapter-8-1.md)
-  - [Final Thoughts and Recommendations](chapter-8-2.md)
 - [Conclusion](conclusion.md)
-- [Contacts](contacts.md)

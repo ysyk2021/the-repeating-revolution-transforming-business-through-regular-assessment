@@ -1,4 +1,4 @@
-Chapter 2: Defining the Repeating Revolution: Applying Continuous Improvement Principles to Business
+Applying Continuous Improvement Principles to Business
 ====================================================================================================
 
 In order to successfully undertake the repeating revolution, it is important to apply continuous improvement principles to business. Continuous improvement involves regularly assessing performance, identifying areas for improvement, and implementing changes based on those assessments.

@@ -1,4 +1,4 @@
-Chapter 7: Measuring Success in the Repeating Revolution: Continuously Improving the Repeating Revolution Approach
+Continuously Improving the Repeating Revolution Approach
 ==================================================================================================================
 
 Introduction

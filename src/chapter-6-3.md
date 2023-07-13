@@ -1,4 +1,4 @@
-Chapter 6: Thriving in the Repeating Revolution: Building a Culture of Continuous Improvement and Adaptation
+Building a Culture of Continuous Improvement and Adaptation
 ============================================================================================================
 
 The repeating revolution is an ongoing process of regular assessment, continuous improvement, and adaptation that is essential for driving growth and success in today's rapidly changing business environment. In this chapter, we will explore strategies for building a culture of continuous improvement and adaptation that can help organizations thrive in the repeating revolution.

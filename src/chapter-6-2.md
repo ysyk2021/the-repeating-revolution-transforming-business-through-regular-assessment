@@ -1,4 +1,4 @@
-Chapter 6: Thriving in the Repeating Revolution: Scaling the Repeating Revolution Across Different Areas of Business
+Scaling the Repeating Revolution Across Different Areas of Business
 ====================================================================================================================
 
 Scaling the repeating revolution across different areas of business involves identifying opportunities for improvement, tailoring assessment programs to specific needs and objectives, and providing support and resources to drive positive change. In this chapter, we will explore strategies for scaling the repeating revolution across different areas of business.

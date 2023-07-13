@@ -1,4 +1,4 @@
-Chapter 3: Preparing for the Repeating Revolution: Establishing Baseline Metrics and Goals
+Establishing Baseline Metrics and Goals
 ==========================================================================================
 
 Before implementing a regular assessment program, it is important to establish baseline metrics and goals that will guide the assessment process. In this chapter, we will explore the steps involved in establishing these metrics and goals.

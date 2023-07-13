@@ -1,4 +1,4 @@
-Chapter 5: Overcoming Resistance and Obstacles to Change: Managing Risk and Uncertainty in the Changing Environment
+Managing Risk and Uncertainty in the Changing Environment
 ===================================================================================================================
 
 Change is never easy, and implementing a repeating revolution in an organization can be met with resistance and obstacles. In this chapter, we will explore strategies for overcoming resistance and managing risk and uncertainty in the changing environment.

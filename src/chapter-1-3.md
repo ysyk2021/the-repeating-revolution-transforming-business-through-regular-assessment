@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Purpose and Scope of the Book
+Purpose and Scope of the Book
 ======================================================
 
 The purpose of this book is to explore the concept of the repeating revolution and how it can transform business through regular assessment. The repeating revolution refers to the practice of regularly assessing business performance, identifying areas for improvement, and implementing changes based on those assessments.

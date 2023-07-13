@@ -1,4 +1,4 @@
-Chapter 4: Implementing the Repeating Revolution: Collecting Data and Analysis for Assessment
+Collecting Data and Analysis for Assessment
 =============================================================================================
 
 Introduction

@@ -1,4 +1,4 @@
-Chapter 2: Defining the Repeating Revolution: Creating a Plan for the Repeating Revolution
+Creating a Plan for the Repeating Revolution
 ==========================================================================================
 
 In order to successfully undertake a repeating revolution, it is important to create a plan that outlines the goals, processes, and tools for the initiative. In this chapter, we will explore the steps involved in creating a plan for the repeating revolution.

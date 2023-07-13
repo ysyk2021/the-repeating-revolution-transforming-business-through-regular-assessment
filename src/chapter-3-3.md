@@ -1,4 +1,4 @@
-Chapter 3: Preparing for the Repeating Revolution: Creating a Framework for Regular Assessment
+Creating a Framework for Regular Assessment
 ==============================================================================================
 
 Before embarking on a regular assessment program, it is important to create a framework that outlines the goals, processes, and tools for the initiative. In this chapter, we will explore the steps involved in creating a framework for regular assessment.

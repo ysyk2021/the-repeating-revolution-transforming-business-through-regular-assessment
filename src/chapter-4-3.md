@@ -1,4 +1,4 @@
-Chapter 4: Implementing the Repeating Revolution: Implementing Changes and Measuring Results
+Implementing Changes and Measuring Results
 ============================================================================================
 
 Introduction

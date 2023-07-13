@@ -1,4 +1,4 @@
-Chapter 7: Measuring Success in the Repeating Revolution: Analyzing and Interpreting Data on the Repeating Revolution
+Analyzing and Interpreting Data on the Repeating Revolution
 =====================================================================================================================
 
 Analyzing and interpreting data on the repeating revolution is essential for making informed decisions about where to focus efforts for improvement and driving continuous growth and success. In this chapter, we will explore strategies for effectively analyzing and interpreting data on the repeating revolution.

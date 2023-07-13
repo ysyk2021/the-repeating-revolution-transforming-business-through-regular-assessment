@@ -1,4 +1,4 @@
-Chapter 4: Implementing the Repeating Revolution: Identifying Opportunities for Improvement and Innovation
+Identifying Opportunities for Improvement and Innovation
 ==========================================================================================================
 
 Introduction

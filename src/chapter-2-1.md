@@ -1,4 +1,4 @@
-Chapter 2: Defining the Repeating Revolution: Identifying the Components of a Repeatable Process
+Identifying the Components of a Repeatable Process
 ================================================================================================
 
 In order to successfully undertake the repeating revolution, it is important to identify the components of a repeatable process. A repeatable process is a set of procedures or steps that can be executed consistently to achieve a desired outcome.

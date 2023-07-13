@@ -1,4 +1,4 @@
-Chapter 7: Measuring Success in the Repeating Revolution: Metrics and Key Performance Indicators (KPIs) for the Repeating Revolution
+Metrics and Key Performance Indicators (KPIs) for the Repeating Revolution
 ====================================================================================================================================
 
 Measuring success in the repeating revolution is essential for ensuring that assessment programs are effective and driving continuous improvement and growth. This involves identifying relevant metrics and key performance indicators (KPIs) that align with business objectives and can be tracked over time. In this chapter, we will explore strategies for measuring success in the repeating revolution.

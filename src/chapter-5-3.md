@@ -1,4 +1,4 @@
-Chapter 5: Overcoming Resistance and Obstacles to Change: Addressing Challenges and Setbacks in the Process
+Addressing Challenges and Setbacks in the Process
 ===========================================================================================================
 
 Implementing a regular assessment program can be challenging, particularly if employees are resistant to change or there are other obstacles to overcome. In this chapter, we will explore strategies for overcoming resistance and obstacles to change and address challenges and setbacks in the process.

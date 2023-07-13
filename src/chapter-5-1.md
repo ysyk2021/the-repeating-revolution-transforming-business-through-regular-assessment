@@ -1,4 +1,4 @@
-Chapter 5: Overcoming Resistance and Obstacles to Change: Navigating Resistance to Change Within the Organization
+Navigating Resistance to Change Within the Organization
 =================================================================================================================
 
 Resistance to change is common within organizations, and implementing a repeating revolution can be met with resistance. In this chapter, we will explore strategies for navigating resistance to change within the organization.

@@ -1,4 +1,4 @@
-Chapter 3: Preparing for the Repeating Revolution: Analyzing Business Processes and Performance
+Analyzing Business Processes and Performance
 ===============================================================================================
 
 Before implementing a regular assessment program, it is important to analyze business processes and performance to identify areas that need improvement. In this chapter, we will explore the steps involved in analyzing business processes and performance.

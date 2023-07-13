@@ -1,4 +1,4 @@
-Chapter 8: Conclusion: Recap of Key Points
+Recap of Key Points
 ==========================================
 
 The repeating revolution is an ongoing process of regular assessment, continuous improvement, and adaptation that is essential for driving growth and success in today's rapidly changing business environment. In this book, we have explored strategies for implementing effective assessment programs, scaling the repeating revolution across different areas of business, measuring success, overcoming resistance to change, and building a culture of continuous improvement and adaptation.
