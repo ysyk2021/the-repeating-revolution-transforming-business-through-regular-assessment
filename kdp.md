@@ -12,7 +12,6 @@ Whether you're a CEO, business leader, or entrepreneur, "The Repeating Revolutio
 
 The importance of regular assessment cannot be overstated, and this book is an invaluable tool for achieving ongoing success. With "The Repeating Revolution," readers will learn how to harness the power of assessment to drive growth, innovation, and long-term success in their businesses.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
