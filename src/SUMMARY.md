@@ -29,3 +29,4 @@
   - [Analyzing and Interpreting Data on the Repeating Revolution](chapter-7-2.md)
   - [Continuously Improving the Repeating Revolution Approach](chapter-7-3.md)
 - [Conclusion](conclusion.md)
+- [Contacts](contacts.md)
