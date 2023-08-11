@@ -16,8 +16,6 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 
 
 
-Certainly, here are 20 Amazon search keywords related to "The Repeating Revolution: Transforming Business through Regular Assessment":
-
 1. Business performance
 2. Key performance indicators (KPIs)
 3. Data analysis
