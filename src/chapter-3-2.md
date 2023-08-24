@@ -1,5 +1,3 @@
-Analyzing Business Processes and Performance
-=====================================================
 
 In the Repeating Revolution framework, analyzing business processes and performance is a critical step in driving continuous improvement. This chapter explores the importance of analyzing business processes and performance, as well as the key considerations and approaches involved. By effectively analyzing these areas, organizations can identify opportunities for optimization and make data-driven decisions to enhance overall performance.
 

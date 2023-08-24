@@ -1,5 +1,3 @@
-Chapter 3: Preparing for the Repeating Revolution
-=================================================
 
 Before implementing a regular assessment program, it is important to prepare by establishing baseline metrics and goals, analyzing business processes and performance, and creating a framework for regular assessment. In this chapter, we will explore these steps in more detail.
 
@@ -25,5 +23,4 @@ Finally, it is important to create a framework for regular assessment that outli
 By creating a framework for regular assessment, organizations can ensure that the assessment process is consistent, reliable, and aligned with their business objectives.
 
 By establishing baseline metrics and goals, analyzing business processes and performance, and creating a framework for regular assessment, organizations can successfully undertake the repeating revolution and drive continuous improvement and growth.
-
 

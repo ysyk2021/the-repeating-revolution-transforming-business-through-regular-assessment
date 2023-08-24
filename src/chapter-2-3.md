@@ -1,5 +1,3 @@
-Creating a Plan for the Repeating Revolution
-=====================================================
 
 In this chapter, we will discuss how to create a comprehensive plan for implementing the repeating revolution in your organization. The repeating revolution refers to the transformative process of leveraging regular assessment to drive continuous improvement and innovation. By following a well-structured plan, organizations can effectively embrace this revolution and unlock their full potential.
 

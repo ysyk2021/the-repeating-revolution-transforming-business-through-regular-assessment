@@ -1,5 +1,3 @@
-Chapter 5: Overcoming Resistance and Obstacles to Change
-========================================================
 
 Making changes within an organization can be a challenging process. There may be resistance from employees who are comfortable with the current way of doing things, or obstacles that arise unexpectedly during the change initiative. In this chapter, we will explore strategies for navigating resistance, managing risk, and addressing challenges in order to successfully implement transformative change.
 

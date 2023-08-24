@@ -1,5 +1,3 @@
-Identifying the Components of a Repeatable Process
-===========================================================
 
 In this chapter, we will explore the essential components of a repeatable process. A repeatable process is a set of organized and standardized steps that can be consistently followed to achieve desired outcomes. By identifying and understanding these components, organizations can streamline their operations, reduce variability, and ensure consistent quality in their processes.
 

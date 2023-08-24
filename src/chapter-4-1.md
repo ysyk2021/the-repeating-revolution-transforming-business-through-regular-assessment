@@ -1,5 +1,3 @@
-Collecting Data and Analysis for Assessment
-====================================================
 
 In this chapter, we will delve into the crucial process of collecting data and conducting analysis for effective assessment within the context of the book "The Repeating Revolution: Transforming Business Through Regular Assessment." The success of any assessment relies heavily on the quality and relevance of the data collected, as well as the accuracy and depth of the analysis. In this chapter, we will explore key methodologies and best practices for data collection and analysis to drive meaningful insights and improvements in your business.
 

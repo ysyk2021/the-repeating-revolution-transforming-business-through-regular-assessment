@@ -1,5 +1,3 @@
-Continuously Improving the Repeating Revolution Approach
-=================================================================
 
 Continuous improvement is essential for the success and sustainability of the Repeating Revolution framework. This chapter explores key strategies and practices for continuously improving the Repeating Revolution approach, enabling organizations to adapt, innovate, and thrive in an ever-changing business landscape.
 

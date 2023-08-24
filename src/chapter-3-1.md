@@ -1,5 +1,3 @@
-Establishing Baseline Metrics and Goals
-================================================
 
 In the book "The Repeating Revolution: Transforming Business Through Regular Assessment," this chapter delves into the importance of establishing baseline metrics and goals as a foundation for effective assessment and improvement. By setting clear benchmarks and goals, organizations can measure their progress, track performance, and drive continuous improvement in a structured and meaningful way.
 

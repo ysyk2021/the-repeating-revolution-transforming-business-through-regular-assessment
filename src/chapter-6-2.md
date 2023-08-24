@@ -1,5 +1,3 @@
-Scaling the Repeating Revolution Across Different Areas of Business
-============================================================================
 
 In this chapter, we will explore strategies for scaling the repeating revolution across various areas of business. The repeating revolution refers to the transformative process of regular assessment and improvement in different aspects of an organization. While implementing this revolution successfully in one area can yield significant benefits, extending it to other areas can lead to even greater organizational growth and success. In this chapter, we will discuss key considerations and practical tips for scaling the repeating revolution across different areas of business.
 

@@ -1,5 +1,3 @@
-Managing Risk and Uncertainty in the Changing Environment
-==================================================================
 
 In today's rapidly changing business environment, organizations face an increasing level of risk and uncertainty. To navigate these challenges successfully, it is essential to develop effective strategies for managing risk and uncertainty. This chapter explores the key concepts and approaches for managing risk and uncertainty in the context of the Repeating Revolution framework.
 

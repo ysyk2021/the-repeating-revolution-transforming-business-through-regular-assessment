@@ -1,5 +1,3 @@
-Chapter 6: Thriving in the Repeating Revolution
-===============================================
 
 The repeating revolution is an ongoing process of regular assessment, continuous improvement, and adaptation. In this chapter, we will explore strategies for maximizing long-term value creation through assessment, scaling the repeating revolution across different areas of business, and building a culture of continuous improvement and adaptation.
 

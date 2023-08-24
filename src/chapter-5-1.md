@@ -1,4 +1,3 @@
-# Navigating Resistance to Change Within the Organization
 
 In this chapter, we will delve into the topic of navigating resistance to change within organizations in the context of implementing regular assessment. Change is often met with resistance, as it disrupts established routines and challenges the status quo. Understanding and effectively managing resistance is crucial for the successful implementation of regular assessment practices. Let's explore strategies and best practices for navigating resistance to change within the organization.
 

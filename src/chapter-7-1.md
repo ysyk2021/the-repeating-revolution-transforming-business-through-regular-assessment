@@ -1,5 +1,3 @@
-Metrics and Key Performance Indicators (KPIs) for the Repeating Revolution
-===================================================================================
 
 In the journey of implementing the Repeating Revolution framework, measuring progress and outcomes is crucial to ensure the effectiveness and success of the transformation process. This chapter explores the importance of metrics and Key Performance Indicators (KPIs) in evaluating the impact of the Repeating Revolution and provides guidance on defining and using relevant metrics to track progress.
 

@@ -1,5 +1,3 @@
-Creating a Framework for Regular Assessment
-====================================================
 
 Creating a robust framework for regular assessment is essential to the success of the Repeating Revolution. This chapter explores the key components and steps involved in establishing an effective assessment framework. By developing a structured approach to assessment, organizations can drive continuous improvement and achieve their business objectives.
 

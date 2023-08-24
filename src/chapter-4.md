@@ -1,5 +1,3 @@
-Chapter 4: Implementing the Repeating Revolution
-================================================
 
 Now that we understand the importance of regular assessment in driving business transformation, it is time to explore how to implement the repeating revolution. In this chapter, we will look at the steps involved in collecting data and analysis for assessment, identifying opportunities for improvement and innovation, and implementing changes while measuring results.
 

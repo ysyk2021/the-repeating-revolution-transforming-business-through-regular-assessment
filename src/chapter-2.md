@@ -1,5 +1,3 @@
-Chapter 2: Defining the Repeating Revolution
-============================================
 
 In order to transform business through regular assessment, it is important to define the repeating revolution by identifying the components of a repeatable process, applying continuous improvement principles to business, and creating a plan for the repeating revolution. In this chapter, we will explore these steps in more detail.
 
@@ -25,5 +23,4 @@ Finally, it is important to create a plan for the repeating revolution that outl
 By creating a plan for the repeating revolution, organizations can ensure that the assessment process is consistent, reliable, and aligned with their business objectives. They can also drive continuous improvement and growth by regularly assessing performance and implementing changes based on those assessments.
 
 By identifying the components of a repeatable process, applying continuous improvement principles to business, and creating a plan for the repeating revolution, organizations can successfully define and undertake the repeating revolution to transform their business.
-
 

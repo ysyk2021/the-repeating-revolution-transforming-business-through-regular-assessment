@@ -1,5 +1,3 @@
-Chapter 7: Measuring Success in the Repeating Revolution
-========================================================
 
 Measuring success in the repeating revolution is crucial for ensuring that assessment programs are effective and driving continuous improvement and growth. This chapter will explore strategies for measuring success in the repeating revolution, including identifying relevant metrics and key performance indicators (KPIs), analyzing and interpreting data, and continuously improving the assessment approach.
 
